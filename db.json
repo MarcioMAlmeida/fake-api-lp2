@@ -14,7 +14,7 @@
         { "id": 3, "nome": "pedro carlos", "telefone":  "22222-1234","email": "ghi@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "25", "complemento": "ap 509", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "257.333.321-12" },
         { "id": 4, "nome": "joao antonio", "telefone":  "33344-1014","email": "jkl@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "30", "complemento": "ap 608", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "097.333.321-12" },
         { "id": 5, "nome": "julia lima", "telefone":  "89087-4343","email": "mno@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "15", "complemento": "ap 101", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "331.333.321-12" },
-        { "id": 6, "nome": "luisa mel", "telefone":  "32234-1764","email": "pqr@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "75", "complemento": "ap 509", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "267.333.321-12" }
+        //{ "id": 6, "nome": "luisa mel", "telefone":  "32234-1764","email": "pqr@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "75", "complemento": "ap 509", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "267.333.321-12" }
       
     ],
       "clientes": [
@@ -23,7 +23,7 @@
         { "id": 3, "nome": "carlos", "telefone":  "22222-1234","email": "ghi@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "25", "complemento": "ap 509", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "257.333.321-12" },
         { "id": 4, "nome": "antonio", "telefone":  "33344-1014","email": "jkl@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "30", "complemento": "ap 608", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "097.333.321-12" },
         { "id": 5, "nome": "lima", "telefone":  "89087-4343","email": "mno@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "15", "complemento": "ap 101", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "331.333.321-12" },
-        { "id": 6, "nome": "mel", "telefone":  "32234-1764","email": "pqr@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "75", "complemento": "ap 509", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "267.333.321-12" }
+        //{ "id": 6, "nome": "mel", "telefone":  "32234-1764","email": "pqr@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "75", "complemento": "ap 509", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "267.333.321-12" }
       ],
       "gerentes": [
         { "id": 1, "nome": "valdo carlos", "telefone":  "12345-1234","email": "abc@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "10", "complemento": "ap 301", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "177.333.321-12" },
@@ -31,7 +31,7 @@
         { "id": 3, "nome": "carlos jose", "telefone":  "22222-1234","email": "ghi@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "25", "complemento": "ap 509", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "257.333.321-12" },
         { "id": 4, "nome": "antonio marcos", "telefone":  "33344-1014","email": "jkl@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "30", "complemento": "ap 608", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "097.333.321-12" },
         { "id": 5, "nome": "lima mei", "telefone":  "89087-4343","email": "mno@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "15", "complemento": "ap 101", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "331.333.321-12" },
-        { "id": 6, "nome": "mel maia", "telefone":  "32234-1764","email": "pqr@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "75", "complemento": "ap 509", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "267.333.321-12" }
+        //{ "id": 6, "nome": "mel maia", "telefone":  "32234-1764","email": "pqr@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "75", "complemento": "ap 509", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "267.333.321-12" }
       ],
       
       "cores": [
@@ -40,7 +40,7 @@
         { "id": 3, "titulo": "Branco" },
         { "id": 4, "titulo": "Laranja" },
         { "id": 5, "titulo": "Verde" },
-        { "id": 6, "titulo": "Amarelo" }
+        //{ "id": 6, "titulo": "Amarelo" }
       ],
       "Tamanhos": [
         { "id": 1, "titulo": "PP" },
@@ -48,7 +48,7 @@
         { "id": 3, "titulo": "M" },
         { "id": 4, "titulo": "G" },
         { "id": 5, "titulo": "GG" },
-        { "id": 6, "titulo": "XGG" }
+        //{ "id": 6, "titulo": "XGG" }
       ],
 
       "generos": [
@@ -63,7 +63,7 @@
         { "id": 3, "titulo": "Camisas" },
         { "id": 4, "titulo": "Camisolas" },
         { "id": 5, "titulo": "Camisetes" },
-        { "id": 6, "titulo": "Camikazes" }
+        //{ "id": 6, "titulo": "Camikazes" }
       ],
 
       "metodoPagamentos": [
@@ -72,7 +72,7 @@
         { "id": 3, "titulo": "Cartão Débito" },
         { "id": 4, "titulo": "Voucher" },
         { "id": 5, "titulo": "Pix" },
-        { "id": 6, "titulo": "Vale Alimentação" }
+        //{ "id": 6, "titulo": "Vale Alimentação" }
       ],
 
       "produtos": [
@@ -81,7 +81,7 @@
         { "id": 3, "nome": "Azul", "qtdMax": "", "qtdMin": "" },
         { "id": 4, "nome": "Azul", "qtdMax": "", "qtdMin": "" },
         { "id": 5, "nome": "Azul", "qtdMax": "", "qtdMin": "" },
-        { "id": 6, "nome": "Azul", "qtdMax": "", "qtdMin": "" }
+        //{ "id": 6, "nome": "Azul", "qtdMax": "", "qtdMin": "" }
       ],
 
       "tamanhoProdutos": [
