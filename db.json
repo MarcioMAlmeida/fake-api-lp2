@@ -9,7 +9,7 @@
       
     ],
     "funcionarios": [
-        { "id": 1, "nome": "josevaldo", "telefone":  "12345-1234","email": "abc@gmail.com" "cpf": "177.333.321-12" },
+        { "id": 1, "nome": "josevaldo", "telefone":  "12345-1234","email": "abc@gmail.com", "cpf": "177.333.321-12" },
         { "id": 2, "nome": "maria lucia", "telefone":  "11111-1234","email": "def@gmail.com", "cpf": "187.223.321-12"  },
         { "id": 3, "nome": "pedro carlos", "telefone":  "22222-1234","email": "ghi@gmail.com", "cpf": "257.333.321-12" },
         { "id": 4, "nome": "joao antonio", "telefone":  "33344-1014","email": "jkl@gmail.com", "cpf": "097.333.321-12" },
