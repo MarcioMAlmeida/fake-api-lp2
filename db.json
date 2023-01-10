@@ -41,13 +41,5 @@
         { "id": 4, "titulo": "Laranja" },
         { "id": 5, "titulo": "Verde" },
         { "id": 6, "titulo": "Amarelo" }
-      ],
-      "Tamanhos": [
-        { "id": 1, "titulo": "PP" },
-        { "id": 2, "titulo": "P" },
-        { "id": 3, "titulo": "M" },
-        { "id": 4, "titulo": "G" },
-        { "id": 5, "titulo": "GG" },
-        { "id": 6, "titulo": "XGG" }
       ]
 }
