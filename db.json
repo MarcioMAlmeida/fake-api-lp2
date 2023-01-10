@@ -9,12 +9,12 @@
       
     ],
     "funcionarios": [
-        { "id": 1, "nome": "josevaldo", "telefone":  "12345-1234","email": "abc@gmail.com"/*, "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "10", "complemento": "ap 301", "estado": "MG", "cidade": "Juiz de Fora"*/, "cpf": "177.333.321-12" },
-        { "id": 2, "nome": "maria lucia", "telefone":  "11111-1234","email": "def@gmail.com"/*, "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "15", "complemento": "ap 301", "estado": "MG", "cidade": "Juiz de Fora"*/, "cpf": "187.223.321-12"  },
-        { "id": 3, "nome": "pedro carlos", "telefone":  "22222-1234","email": "ghi@gmail.com"/*, "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "25", "complemento": "ap 509", "estado": "MG", "cidade": "Juiz de Fora"*/, "cpf": "257.333.321-12" },
-        { "id": 4, "nome": "joao antonio", "telefone":  "33344-1014","email": "jkl@gmail.com"/*, "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "30", "complemento": "ap 608", "estado": "MG", "cidade": "Juiz de Fora"*/, "cpf": "097.333.321-12" },
-        { "id": 5, "nome": "julia lima", "telefone":  "89087-4343","email": "mno@gmail.com"/*, "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "15", "complemento": "ap 101", "estado": "MG", "cidade": "Juiz de Fora"*/, "cpf": "331.333.321-12" },
-        { "id": 6, "nome": "luisa mel", "telefone":  "32234-1764","email": "pqr@gmail.com"/*, "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "75", "complemento": "ap 509", "estado": "MG", "cidade": "Juiz de Fora"*/, "cpf": "267.333.321-12" }
+        { "id": 1, "nome": "josevaldo", "telefone":  "12345-1234","email": "abc@gmail.com" "cpf": "177.333.321-12" },
+        { "id": 2, "nome": "maria lucia", "telefone":  "11111-1234","email": "def@gmail.com", "cpf": "187.223.321-12"  },
+        { "id": 3, "nome": "pedro carlos", "telefone":  "22222-1234","email": "ghi@gmail.com", "cpf": "257.333.321-12" },
+        { "id": 4, "nome": "joao antonio", "telefone":  "33344-1014","email": "jkl@gmail.com", "cpf": "097.333.321-12" },
+        { "id": 5, "nome": "julia lima", "telefone":  "89087-4343","email": "mno@gmail.com", "cpf": "331.333.321-12" },
+        { "id": 6, "nome": "luisa mel", "telefone":  "32234-1764","email": "pqr@gmail.com", "cpf": "267.333.321-12" }
       
     ],
       "clientes": [
