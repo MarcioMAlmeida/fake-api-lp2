@@ -32,14 +32,5 @@
         { "id": 4, "nome": "antonio marcos", "telefone":  "33344-1014","email": "jkl@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "30", "complemento": "ap 608", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "097.333.321-12" },
         { "id": 5, "nome": "lima mei", "telefone":  "89087-4343","email": "mno@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "15", "complemento": "ap 101", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "331.333.321-12" },
         { "id": 6, "nome": "mel maia", "telefone":  "32234-1764","email": "pqr@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "75", "complemento": "ap 509", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "267.333.321-12" }
-      ],
-      
-      "cores": [
-        { "id": 1, "titulo": "Azul" },
-        { "id": 2, "titulo": "Vermelho" },
-        { "id": 3, "titulo": "Branco" },
-        { "id": 4, "titulo": "Laranja" },
-        { "id": 5, "titulo": "Verde" },
-        { "id": 6, "titulo": "Amarelo" }
       ]
 }
