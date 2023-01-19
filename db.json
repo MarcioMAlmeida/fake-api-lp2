@@ -27,10 +27,6 @@
       ],
       "gerentes": [
         { "id": 1, "nome": "valdo carlos", "telefone":  "(20) 92345-1234","email": "abc@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "10", "complemento": "ap 301", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "177.333.321-12" },
-        { "id": 2, "nome": "lucia maria", "telefone":  "(20) 91111-1234","email": "def@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "15", "complemento": "ap 301", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "187.223.321-12"  },
-        { "id": 3, "nome": "carlos jose", "telefone":  "(20) 92222-1234","email": "ghi@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "25", "complemento": "ap 509", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "257.333.321-12" },
-        { "id": 4, "nome": "antonio marcos", "telefone":  "(20) 93344-1014","email": "jkl@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "30", "complemento": "ap 608", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "097.333.321-12" },
-        { "id": 5, "nome": "lima mei", "telefone":  "(20) 99087-4343","email": "mno@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "15", "complemento": "ap 101", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "331.333.321-12" },
-        { "id": 6, "nome": "mel maia", "telefone":  "(20) 92234-1764","email": "pqr@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "75", "complemento": "ap 509", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "267.333.321-12" }
+        { "id": 2, "nome": "mel maia", "telefone":  "(20) 92234-1764","email": "pqr@gmail.com", "cep": "123456-000", "logradouro": "bernardo mascarenhas", "numero": "75", "complemento": "ap 509", "estado": "MG", "cidade": "Juiz de Fora", "cpf": "267.333.321-12" }
       ]
 }
